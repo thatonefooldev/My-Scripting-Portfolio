@@ -7,4 +7,4 @@ And has many properties like part hp if you want to do damage to a part before l
 
 Movement system is a movement system i have made recently with stamina UI and all of that.
 
-note for the destruction system rblx file i did overture some effects like mass or player fling you can change that in the guns code however.
+note for the destruction system rblx file i did overtune some effects like mass or player fling you can change that in the guns code however.
